@@ -1,6 +1,7 @@
 [submodule "packages/extension1"]
 	path = packages/extension1
 	url = https://github.com/FlorentPastorSTM/extension1.git
+	branch = develop
 [submodule "packages/extension2"]
 	path = packages/extension2
 	url = https://github.com/FlorentPastorSTM/extension2.git
